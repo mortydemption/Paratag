@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 - Resources/30.1 - Templates/Contacts.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Contacts"
-            }
-          },
-          {
-            "id": "1e145cabea2d723d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30 - Resources/30.2 - Contacts/Borodin Pavel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Borodin Pavel"
+              "title": "README"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,24 +214,25 @@
       "quickadd:QuickAdd": false
     }
   },
-  "active": "1e145cabea2d723d",
+  "active": "31a186eff49d285d",
   "lastOpenFiles": [
+    "00 - Inbox/Welcome.md",
+    "README.md",
+    "10 - Projects/10.1 - Evolution/Daily/2025.09.15.md",
+    "30 - Resources/30.2 - Contacts/Borodin Pavel.md",
     "30 - Resources/30.1 - Templates/Monthly Note.md",
     "10 - Projects/10.1 - Evolution/Monthly/ September-2025.md",
     "30 - Resources/30.1 - Templates/Weekly Note.md",
     "30 - Resources/30.1 - Templates/Notes.md",
     "30 - Resources/30.1 - Templates/Daily Note.md",
     "30 - Resources/30.1 - Templates/Contacts.md",
-    "30 - Resources/30.2 - Contacts/Borodin Pavel.md",
     "30 - Resources/30.2 - Contacts/asda.md",
     "30 - Resources/30.2 - Contacts/Any.md",
-    "10 - Projects/10.1 - Evolution/Daily/2025.09.15.md",
     "10 - Projects/10.1 - Evolution/Daily/2025.04.28.md",
     "10 - Projects/10.1 - Evolution/Daily/2025.04.29.md",
     "30 - Resources/30.9 - Templates/Monthly Evolution.md",
     "30 - Resources/30.9 - Templates/High-Energy Capture.md",
     "30 - Resources/30.9 - Templates/Daily Note - old.md",
-    "00 - Inbox/Readme.md",
     "20 - Areas/20.5 - Blogging/_Channels.md",
     "10 - Projects/10.3 - Evolution/Weekly/2025-W37.md",
     "10 - Projects/10.1 - Evolution/Daily/2025.09.14.md",
@@ -265,7 +242,6 @@
     "30 - Resources/30.9 - Templates/Antifragility.md",
     "10 - Projects/10.3 - Evolution/Weekly/Untitled.md",
     "2025-W38.md",
-    "30 - Resources/30.9 - Templates/Movies.md",
     "Dashboard.canvas",
     "10 - Projects/10.8 - Rituals/Templates",
     "10 - Projects/10.8 - Rituals",
