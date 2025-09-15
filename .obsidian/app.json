@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "focusNewTab": true,
+  "propertiesInDocument": "visible",
+  "showInlineTitle": false,
+  "newFileLocation": "current",
+  "userIgnoreFilters": [
+    "30 - Resources/30.1 - Templates/"
+  ],
+  "tabSize": 4
+}

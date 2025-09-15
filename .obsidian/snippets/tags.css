@@ -1,0 +1,7 @@
+/* Убрать фон и рамку у тегов */
+.cm-hashtag {
+    border: none !important;
+    padding: 0px !important;
+    margin: 0px;
+    font-size: inherit;
+}

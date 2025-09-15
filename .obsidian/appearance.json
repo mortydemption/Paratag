@@ -1,0 +1,16 @@
+{
+  "accentColor": "#6e6e6e",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "translucency": false,
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "showRibbon": false,
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "tags"
+  ]
+}

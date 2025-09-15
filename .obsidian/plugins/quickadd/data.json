@@ -1,0 +1,241 @@
+{
+  "choices": [
+    {
+      "id": "1d37f5d4-2938-48a3-a5e9-aa694a55e719",
+      "name": "Weekly",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "19de74f3-958c-47b8-bfef-7e49afea99c1",
+        "name": "Weekly",
+        "commands": [
+          {
+            "name": "Untitled Template Choice",
+            "type": "NestedChoice",
+            "id": "f2582f26-9799-47f9-b593-1d47a7a1df86",
+            "choice": {
+              "id": "a52b2606-af96-4788-a44f-85a6e5a33ac5",
+              "name": "Untitled Template Choice",
+              "type": "Template",
+              "command": false,
+              "templatePath": "30 - Resources/30.9 - Templates/Weekly Note.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "{{date:YYYY-[W]WW}}"
+              },
+              "folder": {
+                "enabled": true,
+                "folders": [
+                  "10 - Projects/10.3 - Evolution/Weekly"
+                ],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFileInNewTab": {
+                "enabled": false,
+                "direction": "vertical",
+                "focus": true
+              },
+              "openFile": true,
+              "openFileInMode": "default",
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              }
+            }
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "e89d20ad-01c4-4d10-b892-0e01d3b77e7c",
+      "name": "Monthly",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "e2a82a6a-b435-4ab9-9455-a97664decf8d",
+        "name": "Monthly",
+        "commands": [
+          {
+            "name": "Untitled Template Choice",
+            "type": "NestedChoice",
+            "id": "a09a90d5-eb0e-4362-9039-40bd9a914dc6",
+            "choice": {
+              "id": "5fa5f846-ead9-465b-a71a-fcabebb1b3ab",
+              "name": "Untitled Template Choice",
+              "type": "Template",
+              "command": false,
+              "templatePath": "30 - Resources/30.1 - Templates/Monthly Note.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "{{date: MMMM-YYYY}}"
+              },
+              "folder": {
+                "enabled": true,
+                "folders": [
+                  "10 - Projects/10.1 - Evolution/Monthly"
+                ],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFileInNewTab": {
+                "enabled": false,
+                "direction": "vertical",
+                "focus": true
+              },
+              "openFile": true,
+              "openFileInMode": "default",
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              }
+            }
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "1e0b3be1-50ee-43cf-a484-3dfe859fb8af",
+      "name": "Contact",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "id": "74458fbf-350a-4927-9cb3-faba0f81ea4e",
+        "name": "Contact",
+        "commands": [
+          {
+            "name": "Untitled Template Choice",
+            "type": "NestedChoice",
+            "id": "bd83a7da-b7aa-4d89-8a75-6946a91a1235",
+            "choice": {
+              "id": "5fa5f846-ead9-465b-a71a-fcabebb1b3ab",
+              "name": "Untitled Template Choice",
+              "type": "Template",
+              "command": false,
+              "templatePath": "30 - Resources/30.1 - Templates/Contacts.md",
+              "fileNameFormat": {
+                "enabled": false,
+                "format": "{{date: MMMM-YYYY}}"
+              },
+              "folder": {
+                "enabled": true,
+                "folders": [
+                  "30 - Resources/30.2 - Contacts"
+                ],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFileInNewTab": {
+                "enabled": false,
+                "direction": "vertical",
+                "focus": true
+              },
+              "openFile": true,
+              "openFileInMode": "default",
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "30 - Resources/30.9 - Templates",
+  "announceUpdates": true,
+  "version": "2.3.0",
+  "globalVariables": {},
+  "onePageInputEnabled": false,
+  "disableOnlineFeatures": true,
+  "enableRibbonIcon": true,
+  "showCaptureNotification": true,
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "OpenAI",
+        "endpoint": "https://api.openai.com/v1",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "text-davinci-003",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo-16k",
+            "maxTokens": 16384
+          },
+          {
+            "name": "gpt-3.5-turbo-1106",
+            "maxTokens": 16385
+          },
+          {
+            "name": "gpt-4",
+            "maxTokens": 8192
+          },
+          {
+            "name": "gpt-4-32k",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gpt-4-1106-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o-mini",
+            "maxTokens": 128000
+          }
+        ]
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true,
+    "removeMacroIndirection": true,
+    "migrateFileOpeningSettings": true
+  }
+}

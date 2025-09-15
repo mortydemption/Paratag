@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "764562570839cc34",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1cf7b8efea6f2a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ae92369d00e3a1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30 - Resources/30.9 - Templates/Weekly Note.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Weekly Note"
+            }
+          },
+          {
+            "id": "31a186eff49d285d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30 - Resources/30.1 - Templates/Contacts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Contacts"
+            }
+          },
+          {
+            "id": "1e145cabea2d723d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30 - Resources/30.2 - Contacts/Borodin Pavel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Borodin Pavel"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c15147e73f9f394",
+    "type": "split",
+    "children": [
+      {
+        "id": "6432df8839861ae9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2996cf57b3a97c60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9bb4af2e7047c728",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "30f988d07df511c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#type/weekly",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f646b956c4382659",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "66ba1be123b496a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb76fcc2a62ecf60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c474fa4f811c19c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10 - Projects/10.5 - Pagurad/Articles/EN_2025_25AUG From Moscow to Astana What Five Cities Taught Me About Systems.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of EN_2025_25AUG From Moscow to Astana What Five Cities Taught Me About Systems"
+            }
+          },
+          {
+            "id": "c4e50b205640a863",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "c55bd19ea5815047",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e9a11956843fc8fd",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "quickadd:QuickAdd": false
+    }
+  },
+  "active": "1e145cabea2d723d",
+  "lastOpenFiles": [
+    "30 - Resources/30.1 - Templates/Monthly Note.md",
+    "10 - Projects/10.1 - Evolution/Monthly/ September-2025.md",
+    "30 - Resources/30.1 - Templates/Weekly Note.md",
+    "30 - Resources/30.1 - Templates/Notes.md",
+    "30 - Resources/30.1 - Templates/Daily Note.md",
+    "30 - Resources/30.1 - Templates/Contacts.md",
+    "30 - Resources/30.2 - Contacts/Borodin Pavel.md",
+    "30 - Resources/30.2 - Contacts/asda.md",
+    "30 - Resources/30.2 - Contacts/Any.md",
+    "10 - Projects/10.1 - Evolution/Daily/2025.09.15.md",
+    "10 - Projects/10.1 - Evolution/Daily/2025.04.28.md",
+    "10 - Projects/10.1 - Evolution/Daily/2025.04.29.md",
+    "30 - Resources/30.9 - Templates/Monthly Evolution.md",
+    "30 - Resources/30.9 - Templates/High-Energy Capture.md",
+    "30 - Resources/30.9 - Templates/Daily Note - old.md",
+    "00 - Inbox/Readme.md",
+    "20 - Areas/20.5 - Blogging/_Channels.md",
+    "10 - Projects/10.3 - Evolution/Weekly/2025-W37.md",
+    "10 - Projects/10.1 - Evolution/Daily/2025.09.14.md",
+    "10 - Projects/10.5 - Pagurad/Articles/EN_2025_25AUG From Moscow to Astana What Five Cities Taught Me About Systems.md",
+    "10 - Projects/10.5 - Pagurad/Articles/RU_2025_27AUG Мысли приходят неожиданно.md",
+    "10 - Projects/10.5 - Pagurad/Articles/EN_2025_04SEP Marketing AI.md",
+    "30 - Resources/30.9 - Templates/Antifragility.md",
+    "10 - Projects/10.3 - Evolution/Weekly/Untitled.md",
+    "2025-W38.md",
+    "30 - Resources/30.9 - Templates/Movies.md",
+    "Dashboard.canvas",
+    "10 - Projects/10.8 - Rituals/Templates",
+    "10 - Projects/10.8 - Rituals",
+    "10 - Projects/obsidian-rituals/Templates",
+    "10 - Projects/obsidian-rituals",
+    "10 - Projects/10.7 - Portal",
+    "10 - Projects/10.6 - Handbook",
+    "30 - Resources/30.2 - Contacts",
+    "10 - Projects/10.5 - Pagurad/Articles",
+    "10 - Projects/10.5 - Pagurad",
+    "10 - Projects/10.4 - Hebrew",
+    "Telegram/photos/photo_1841370801_4 - 20240930005334115.jpg",
+    "30 - Resources/30.11 - Attach/Pasted image 20250107162705.png",
+    "Pasted image 20250107154516.png",
+    "Pasted image 20250107154512.png"
+  ]
+}
