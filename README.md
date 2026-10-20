@@ -1,6 +1,6 @@
 # Paratag
 
-A lightweight and elegant **Obsidian vault template** that combines a **minimal tagging system** with **Tiago Forte’s PARA method**. Old
+A lightweight and elegant **Obsidian vault template** that combines a **minimal tagging system** with **Tiago Forte’s PARA method**.
 
 This approach keeps your vault simple, flexible, and future-proof:  
 
